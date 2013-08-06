@@ -31,10 +31,10 @@ At <a href="http://8-bit.me" target="_blank">8-Bit Mellow</a> we believe that we
 
 <h3>So... what's with the name <a href="http://8-Bit.me" target="_blank">8-Bit Mellow</a>?</h3>
 <p>They had me at 8-Bit. I grew up with technology in the 1980's and it was my experience with 8-Bit computers and 8-Bit gaming consoles where I first fell in love with technology, design, and open source.</p>
-<p>Today, it is way to easy to get distracted… to get caught up in the flow of the day to day grind and pulled away from what you love. A new vision and model for our businesses and organizations needs to emerge which is based on intrinsic motivation and self-direction.  I do not think that your passion or hobby is to be considered “mutually exclusive” from your actual work anymore if we are to succeed in breaking through the brick walls and overcome 21st century challenges .</p>
-<p>As I look around I see that the world is quickly changing in an incredibly fantastic way where the line between work and play is blurring away and the blending of career and hobby is possible now!</p><br>
-<p>Hobby Your Day Job,</p>
-<p>-Brian Hooper (Starter | Co-Founder)</p>
+<p>Today, it is way to easy to get distracted… to get caught up in the flow of the day to day grind and pulled away from what you love. A new vision and model for our businesses and organizations needs to emerge which is based on intrinsic motivation and self-direction.</p>
+<p>As I look around I see that the world is quickly changing in an incredibly fantastic way where the line between work and play is blurring away and the blending of career and hobby is becoming more possible.  At the end of the day, I am confident that it will be our passion that pushes us to succeed in breaking through brick walls to overcome 21st century challenges.</p>
+<p>Hobby Your Day Job,<br>
+-Brian Hooper (Starter | Co-Founder)</p>
 
 
 
